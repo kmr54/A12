@@ -84,14 +84,14 @@ section h2 {
 section article {
     padding-bottom: .5em;
     padding-top: .5em;
-    border-top: 2px;
-    border-bottom: 2px;
+    border-top: solid 2px;
+    border-bottom: solid 2px;
     border-top-color: #800000;
     border-bottom-color: #800000;
 }
 section img{
     float: right;
-    border: 1px;
+    border: solid 1px;
     margin-top: 3em;
     margin-bottom: 3em;
     margin-left: 3em;
