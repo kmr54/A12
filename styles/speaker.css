@@ -91,7 +91,7 @@ section article {
 }
 section img{
     float: right;
-    border: 1px;
+    border: solid 1px;
     margin-top: 3em;
     margin-bottom: 3em;
     margin-left: 3em;
